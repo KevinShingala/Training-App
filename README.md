@@ -68,3 +68,12 @@ Download the project files by running the following command:
 
 ```bash
 git clone git@github.com:KevinShingala/Training-App.git
+
+
+### Step 2: Install Dependencies
+
+Run below command
+```bash
+cd trainings_app
+flutter pub get
+
