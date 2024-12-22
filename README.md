@@ -69,7 +69,6 @@ Download the project files by running the following command:
 ```bash
 git clone git@github.com:KevinShingala/Training-App.git
 
----
 ```
 
 ### Step 2: Navigate to the Project Directory
@@ -77,7 +76,6 @@ git clone git@github.com:KevinShingala/Training-App.git
 ```bash
 cd Training-App
 
----
 ```
 
 ### Step 3: Install Dependencies
@@ -85,7 +83,6 @@ cd Training-App
 ```bash
 flutter pub get
 
----
 ```
 
 ### Step 4: Run the Application
@@ -93,6 +90,5 @@ flutter pub get
 ```bash
 flutter run
 
----
 ```
 
